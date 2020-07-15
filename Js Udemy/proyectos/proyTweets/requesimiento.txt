@@ -1,0 +1,6 @@
+Caracteristicas del proyecto:
+
+*El usuario podra crear/eliminar/ver sus tweets en un listado.
+*Los tweets se almacenan en Local Storage.
+*El usuario podra agregar una cantidad ilimitada de tweets.
+*Al cargar la pagina los tweets deben cargarse del Local Storage, al eliminarse deben quitarse del local storage.

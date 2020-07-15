@@ -1,0 +1,6 @@
+COTIZAR CRIPTOMONEDAS:
+
+* Consumir datos desde una REST API;
+* Convertir 4 monedas (Dolares, Pesos Mexicanos, Euros y Libras) a +100 destintas criptomonedaas al istente.
+* Ser desarrollado con clases y Async/Await + Fetch API,
+* Agregar un gráfico que simule el calculo (spinKit).

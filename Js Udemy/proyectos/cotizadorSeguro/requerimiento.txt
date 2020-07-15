@@ -1,0 +1,8 @@
+COTIZADOR DE SEGUROS AUTOS
+
+Requerimirnto:
+
+* Existen 3 modelos, cada uno con precio distinto.
+* Cada año del auto su precio debera ser menor en un 3%.
+* El seguro del auto completo o basico tiene distinto precio.
+* Debera ser reañizado con Prototypes y migrado a classes.

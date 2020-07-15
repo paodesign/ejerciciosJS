@@ -1,0 +1,8 @@
+Simulación envio de un email
+
+Caracteristicas del proyecto:
+
+* Si los campos PARA, ASUNTO y MENSAJE estan vacios, el email no puede enviarse y los campos deberan mostrar en ROJO.
+* Debe existir un BOTON para BORRAR TODO el contenido del formulario.
+* Al presionar el boton ENVIAR, un SPINNER de carga debera mostrarse.
+* Después de spinner un gráfico de ENVIADO debera mostrarse.

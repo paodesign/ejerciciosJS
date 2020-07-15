@@ -1,0 +1,117 @@
+/* ------------------------- */
+/* Estilos Generales */
+/* ------------------------- */
+
+* {
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+}
+
+body { 
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.texto-naranja {
+    font-weight: 300;
+    color: orange;
+}
+
+.texto-blanco {
+    font-weight: 700;
+    color: #fff;
+}
+
+.texto-negro {
+	color: #000;
+}
+/* ------------------------- */
+/* Clases de fullpage.js */
+/* ------------------------- */
+#fp-nav ul li a span{
+    background: orange;
+}
+#fp-nav ul li .fp-tooltip{
+    color:  orange;
+}
+/* ------------------------- */
+/* Menu de navegcion */
+/* ------------------------- */
+.nav {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 70;
+    width: 100%;
+    margin: 0;
+    padding: 10px 20px;
+}
+.nav li,
+.nav a {
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "oswald",sans-serif;
+    font-size: 19px;
+    color: #c2c2c2;
+    transition:.5s ease;
+}
+.nav li.active {
+    border-bottom: 2px solid orange;
+}
+
+/* ------------------------- */
+/* Header */
+/* ------------------------- */
+
+.header{
+    background: url("../media/bg-imagen.jpeg");
+    background-position: center;
+}
+.header .contenedor-titulo {
+    text-align: center;
+    position: relative;
+    z-index: 99;
+}
+.header .titulo {
+    font-size: 70px;
+    text-transform: uppercase;
+}
+.header .contenedor-icono{
+    position: absolute;
+    z-index: 99;
+    bottom: 3%;
+    left: 50%;
+    font-size: 40px;
+    animation: bajar-subir 1s ease infinite;
+}
+.bg-video{
+    position: absolute;
+    z-index: 10;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background: black;
+    background-position: center;
+    background-size: contain;
+    object-fit: cover;
+}
+
+/* ------------------------- */
+/* Animacion */
+/* ------------------------- */
+@keyframes bajar-subir {
+    0% {transform: translateY(20px);}
+    25% {transform: translateY(0px);}
+    100% {transform: translateY(20px);}
+}

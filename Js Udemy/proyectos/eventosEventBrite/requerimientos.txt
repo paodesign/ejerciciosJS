@@ -1,0 +1,6 @@
+EVENTOS CON EVENTBRITE:
+
+* Consumir los eventos desde la Api de Event Brite (incluye crear la aplicación).
+* Filtar los eventos por categoria y nombre y lugar.
+* Imprimir los resultaodos con Fetch API y Async Await.
+* El código debera ser realizado con clases.

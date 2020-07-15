@@ -1,0 +1,8 @@
+GENERAOR DE NOMBRES CON FETCH API Y REST API
+
+Requerimientos:
+
+* Consumir los datos desde una REST API.
+* Enviar parametros a la REST API para filtrar paìs, sexo y cantidad de nombres.
+* Imprimir los resultados desde la REST API con FETCH API, AJAX Y ASYNC/AWAIT.
+* Debera ser realizado con clases.

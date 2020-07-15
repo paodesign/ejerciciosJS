@@ -1,0 +1,7 @@
+ESTABLECIMIENTO EN MAPAS
+
+* Consumir los establecimentos desde la Api de establecimentos.
+* Filtar resultado con un Imput.
+* Mostrar multiples pines para los establecimientos en un mismo mapa.
+* Imprimir los resultados con Fetch APi y Async Await.
+* El còdigp debera realizarse con clases.

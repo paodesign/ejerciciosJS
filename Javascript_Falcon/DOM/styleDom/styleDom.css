@@ -1,0 +1,16 @@
+.thumb {
+    width: 400px;
+    translate: 500ms all aese;
+}
+.grande {
+    width: 900px;
+    height: 600px;
+}
+/*.titulo {
+    border: 1px solid navy;
+    background: orangered;
+    padding: 10px;
+}
+.tituloGrande {
+    font-size: 60px;
+}*/

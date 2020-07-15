@@ -1,0 +1,8 @@
+Carritos de compras
+
+Caracteristicas del proyecto:
+
+* El usuario podra agregar/eliminar y ver sus cursos que quiera adquirir en el carritos de compras.
+* Los cursos se almacenaran en Local Storage.
+* El carrito cargara la informacion del Local Storage por si el usuario visita el sitio nuevamente.
+* Al quitar el curso del carrito se quita del Local Storage.
